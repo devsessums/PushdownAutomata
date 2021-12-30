@@ -1,0 +1,60 @@
+DPDA
+i a m d f n a
+$ 
+9
+Q7
+---
+Q0 i   Q1  
+Q0 a   Q8  
+Q0 m   Q8  
+Q0 d   Q8  
+Q0 f   Q8  
+Q0 n   Q8  
+Q1 i   Q8  
+Q1 a   Q2  
+Q1 m   Q8  
+Q1 d   Q8  
+Q1 f   Q8  
+Q1 n   Q8  
+Q2 i   Q8  
+Q2 a   Q8  
+Q2 m   Q3  
+Q2 d   Q8  
+Q2 f   Q8  
+Q2 n   Q8  
+Q3 i   Q8  
+Q3 a   Q4  
+Q3 m   Q8  
+Q3 d   Q8  
+Q3 f   Q8  
+Q3 n   Q8  
+Q4 i   Q8  
+Q4 a   Q8  
+Q4 m   Q8  
+Q4 d   Q5  
+Q4 f   Q8  
+Q4 n   Q5  
+Q5 i   Q8  
+Q5 a   Q8  
+Q5 m   Q8  
+Q5 d   Q8  
+Q5 f   Q6  
+Q5 n   Q8  
+Q6 i   Q8  
+Q6 a   Q7  
+Q6 m   Q8  
+Q6 d   Q8  
+Q6 f   Q8  
+Q6 n   Q8  
+Q7 i   Q1  
+Q7 a   Q8  
+Q7 m   Q8  
+Q7 d   Q8  
+Q7 f   Q8  
+Q7 n   Q8  
+Q8 i   Q8  
+Q8 a   Q8  
+Q8 m   Q8  
+Q8 d   Q8  
+Q8 f   Q8  
+Q8 n   Q8  
